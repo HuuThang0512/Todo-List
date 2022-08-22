@@ -1,0 +1,16 @@
+@media (max-width : 46.25em){ 
+    .todo-block {
+        min-width: 80%;
+        max-width: 80%;
+    }
+
+    .todo-add-btn  {
+        font-size: 1.1rem;
+    }
+
+    .check-icon {
+        left: -24px;
+        font-size: 2rem;
+    }
+
+}
